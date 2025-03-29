@@ -11,6 +11,9 @@ Follow these steps to set up and run the project locally.
 git clone https://github.com/chamanchangappa03/CNproject.git
 
 npm install
+```
+create a .env file then
 VITE_ESP32_IP='your_esp32_ip_here'
+```
 npm run dev
 ```
